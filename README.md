@@ -1,7 +1,7 @@
 
 # Born2beroot Checkmark
 ## _let you get through the root_
-[![N|Solid](https://raw.githubusercontent.com/viruskizz/42Bangkok-Born2beroot/main/cover.png)](https://github.com/viruskizz/42Bangkok-Born2beroot)
+[![N|Solid](https://raw.githubusercontent.com/choi360/42Bangkok-Born2beroot/main/cover.png)](https://github.com/choi360/42Bangkok-Born2beroot)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
