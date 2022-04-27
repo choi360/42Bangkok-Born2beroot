@@ -45,7 +45,7 @@ Setup OS Installation
 3. Other Storage Options
 
 - Select `I will configure partitioning`
-#- Select `Encrypt my data`
+[//]: <> (- Select `Encrypt my data`)
 - Done
 
 4. Choose `LVM`. Add new Partition and choose mount path
