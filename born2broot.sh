@@ -1,5 +1,5 @@
-HOSTNAME=tsomsa42
-USER=tsomsa
+HOSTNAME=kmethawa42
+USER=kmethawa
 PWD=Born2ber00t
 GROUP=user42
 # Start configaration
@@ -42,7 +42,7 @@ adduser $USER -p $PWD
 # assign user to group
 usermod -a -G $GROUP,wheel $USER
 # check group
-group $USER
+groups $USER
 
 ## Set UFW
 # check firewalld and disable firewalld for CentOS
