@@ -251,7 +251,7 @@ $ usermod -a -G <group> <username>
 $ Check group that user belong to.
 
 ```bash
-$ group <username>
+$ groups <username>
 ```
 
 ## User SSH Access
