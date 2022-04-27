@@ -46,8 +46,7 @@ Setup OS Installation
 1. Start your VM
 2. Select `install CentOS 7`. Choose language `English`. Select `INSTALLATION DESTINATION`
 3. Other Storage Options -> `I will configure partitioning` -> `Done`
-4. Choose `LVM`. Add new Partition and choose mount path
-Create a new volume group `LVMGroup` and `Encrypt`
+4. Choose `LVM`. ADD A NEW MOUNT POINT -> Create a new volume group `LVMGroup` and `Encrypt`
 
 | Name | Mount  | Size | Group |File System |
 |--|--|--|--|--|
@@ -60,13 +59,14 @@ Create a new volume group `LVMGroup` and `Encrypt`
 | tmp | /tmp | 3GiB | LVMGroup | xfs |
 |var-log| /var/log| 4GiB | LVMGroup | xfs |
 
-Click `Done`  and Create a passphrase for encrypted disk
+Click `Done` and Create a passphrase for encrypted disk -> Accept Changes
+
 <div align="left">
     <img src="https://raw.githubusercontent.com/viruskizz/42Bangkok-Born2beroot/main/Installation/CentOs-Setup-Partition.png" alt="Logo" height="240">
 </div>
 
-5. Click `Install`
-6. Create your root password
+5. Click `Begin Installation`
+6. Create your root password -> `Done`
 7. Reboot
 
 Check your partition is succeed with command
