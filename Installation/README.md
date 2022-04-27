@@ -36,10 +36,10 @@ Setup virtural box
 1. Open your **Virtual Box** and select **New**.
 2. Enter Name as you want. Type: Linux and Version: Oracle (64-bit)
 3. Choose Memory size 1 GB
-4. Hard disk: Create a virtual hard disk now -> Create
-5. File size 30.8 GB -> VDI -> Dynamically allocated -> Create
+4. Hard disk: Create a virtual hard disk now -> `Create`
+5. File size 30.8 GB -> VDI -> Dynamically allocated -> `Create`
 6. Setting -> Network Adapter1 -> Enable -> Attacted to `Bridged Adapter` -> `your network interface`
-7. Setting -> Storage -> Contraller: IDE -> Empty -> Choose `CentOS.iso` (from your download)
+7. Setting -> Storage -> Contraller: IDE -> Empty -> Choose `CentOS.iso` (from your download) -> `OK`
 
 Setup OS Installation
 
